@@ -1,0 +1,27 @@
+.top-box {
+    background-color: #36454f;
+    height: 20vh;
+}
+
+.left-box {
+    display: inline-block;
+    background-color: #d3d3d3;
+    width: 15vw;
+    float: left;
+    height: 100vh;
+}
+
+.right-box {
+    display: inline-block;
+    background-color: #d3d3d3;
+    width: 15vw;
+    float: right;
+    height: 100vh;
+    /* right: 8px; */
+}
+
+.bottom-box {
+    background-color: black;
+    height: 15vh;
+    margin-top: 85vh;
+}
